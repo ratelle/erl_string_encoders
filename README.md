@@ -1,4 +1,4 @@
-erl_string_encoders
+Erlang string encoders
 ===================
 
 This is an erlang nif of Google's stringencoders library. https://code.google.com/p/stringencoders/
