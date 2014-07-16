@@ -1,5 +1,7 @@
 -module(erl_string_encoders).
 
+-compile([no_native]).
+
 -export([
     init/0,
     base64_encode/1,
